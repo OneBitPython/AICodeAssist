@@ -1,0 +1,12 @@
+nltk
+wikipedia
+sklearn
+pywhatkit
+datetime
+pyjokes
+wolframalpha
+playsound
+pyttsx3
+keyboard
+pandas
+SpeechRecognition
